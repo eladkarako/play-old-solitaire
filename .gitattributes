@@ -1,0 +1,18 @@
+*.bin                     binary
+*.mui                     binary
+*.dll                     binary
+*.exe                     binary
+*.png                     binary
+*.jpg                     binary
+*.cmd                     text    eol=crlf
+*.bat                     text    eol=crlf
+*.css                     text    eol=crlf
+*.reg                     text    eol=crlf
+*.conf                    text    eol=crlf
+*.ini                     text    eol=crlf
+*.js                      text    eol=crlf
+*.txt                     text    eol=crlf
+*.html                    text    eol=crlf
+*.json                    text    eol=crlf
+*.md                              eol=crlf
+

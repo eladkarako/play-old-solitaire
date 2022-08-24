@@ -1,0 +1,81 @@
+Windows Solitaire Cheats
+
+Windows Solitaire
+
+Cheat mode:
+-----------
+Start a three card draw game. Hold [Ctrl] + [Alt] + [Shift] and click on the deck
+to only draw one card. Note: If you hold [Ctrl] + [Alt] + [Shift] at the circle at
+the end of the deck, points will not be taken off your score.
+
+
+Automatic win:
+--------------
+To automatically win the game, press [Shift] + [Alt] + 2. The cards will start 
+jumping down as if you had won the game legitimately.
+
+
+Reset cards:
+------------
+If all cards have been revealed in Vegas mode, and the game was not completed, double
+click on the circle which previously held the cards. All cards will return to their 
+original position at the cost of 100 points. 
+
+
+Sort cards:
+-----------
+Click the Right Mouse Button in an empty area to automatically move all cards to top 
+section of four slots. 
+
+
+Extra move and points:
+----------------------
+Use the following trick to get an extra move. For example, if you have the Ace of Spades
+(black) in the ace piles and the Two of Spades (black) up on the draw deck. You have a 
+Three of Hearts (red) on a pile. If you move the Two to the Ace, you will get 10 points.
+If you move the Two on top of the Three you will get 5 points. 
+If you move the Two to the Three then move it to the Ace, you will get 15 points, which 
+results in an extra 5 points. 
+
+
+Easy points:
+------------
+To get a very high score in in standard mode, get as many cards on the ace piles as 
+possible in a short time. Press [Shift] + [Alt] + 2 to force an end to the game. It is 
+not uncommon to get more than 20,000 points. Then, click the mouse to stop the waterfall
+and on the dialog box for "Deal" click on "No". Then, press [Shift] + [Alt] + 2 again. 
+The bonus points will be added again to the score and the waterfall will start again. 
+If you repeat pressing [Shift] + [Alt] + 2 the score goes as high as desired. If 
+someone shows you a very high score, check to see if they have done this trick by 
+looking at the bonus points and the score. If the points are 10,000 and the score is 
+100,000, then they have done this trick 9 or 10 times.
+
+
+Draw One Card: Cheat mode (Windows 3.x):
+----------------------------------------
+Start a three card draw game. Hold [Ctrl] + [Alt] + [Shift] 
+and click on the deck to only draw one card. 
+
+
+Reset cards (Windows 3.x):
+--------------------------
+If all cards have been revealed in Vegas mode, and the game 
+was not completed, double click on the circle which previously 
+held the cards. All cards will return to their original 
+position at the cost of 100 points.
+
+
+Windows Vista version: Keep good statistics:
+--------------------------------------------
+If the game is not over and you are losing and do not wanted counted as a loss in your
+statistics, hold [Ctrl] + Z to undo all your moves. Then, exit the game by clicking 
+the red "X" icon in the top right corner of the window. 
+
+
+Windows Vista version: Good scores: 
+-----------------------------------
+Press H and [Enter] repeatedly during game play until the game is over.
+
+
+
+
